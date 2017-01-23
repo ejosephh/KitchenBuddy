@@ -5,7 +5,8 @@ Utilizes Javascript to conduct search requests into the Yummly API, parse JSON r
 Created at HackUCI 2017 with William Khaine and Theja Krishna. 
 
 #How to Run
-Download all folders and run index.html
+Download all folders and ensure images have loaded by clicking through the .jpg files under the images directory. 
+Run index.html 
 
 
 #What's next for KitchenBuddy 
